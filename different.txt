@@ -1,1 +1,1 @@
-DIFFORENCE 1000
+"Hello tout le monde !"
